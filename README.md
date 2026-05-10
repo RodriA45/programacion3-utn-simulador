@@ -2,6 +2,8 @@
 
 Simulador de preguntas de múltiple opción para prepararse para los parciales de **Programación III**. Incluye teoría de redes/HTTP y práctica de desarrollo web.
 
+🚀 **[¡Probar la Demo Online aquí!](https://RodriA45.github.io/programacion3-utn-simulador/)**
+
 ## ✨ Características
 
 - **50 preguntas de Teoría** — HTTP, DNS, TCP/UDP, REST, TLS, Cookies, JWT, CORS y más
@@ -35,10 +37,8 @@ Luego abrí `http://localhost:3000` en el navegador.
 > ⚠️ No abrir `index.html` directamente con doble clic — los navegadores bloquean la carga de archivos `.js` externos por seguridad (CORS).
 
 ### Opción 2 — GitHub Pages
-1. Subí el repo a GitHub
-2. Andá a **Settings → Pages**
-3. En *Source*, elegí **main branch / root**
-4. Tu quiz va a estar en `https://tu-usuario.github.io/nombre-del-repo/`
+El proyecto ya está configurado para desplegarse automáticamente. Podés acceder a la versión en línea directamente desde aquí:
+👉 **[Link a la Demo en GitHub Pages](https://RodriA45.github.io/programacion3-utn-simulador/)**
 
 ## 🎮 Modos de juego
 
