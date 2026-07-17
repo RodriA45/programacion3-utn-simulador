@@ -4,6 +4,8 @@ Simulador de preguntas de múltiple opción para prepararse para los parciales d
 
 🚀 **[¡Probar la Demo Online aquí!](https://RodriA45.github.io/programacion3-utn-simulador/)**
 
+![Programacion 3 Simulador](./Programacion-3-utn-simulador.png)
+
 ## ✨ Características
 
 - **50 preguntas de Teoría** — HTTP, DNS, TCP/UDP, REST, TLS, Cookies, JWT, CORS y más
